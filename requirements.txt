@@ -1,0 +1,7 @@
+telethon
+aiohttp
+jdatetime
+Pillow
+beautifulsoup4
+requests
+pysocks
